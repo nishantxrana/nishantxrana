@@ -21,7 +21,7 @@
 
 ## Featured projects
 
-🧭 **[Aclara - Azure DevOps Access Visualizer](https://github.com/nishantxrana/Aclara)** - Visualise identities, group membership, and Git permissions as an interactive graph (with access tracing + risk signals).  
+🧭 **[Aclara](https://github.com/nishantxrana/Aclara)** - Visualise identities, group membership, and Git permissions as an interactive graph (with access tracing + risk signals).  
 
 🤖 **[InsightOps](https://github.com/nishantxrana/InsightOps)** - AI‑powered DevOps intelligence for Azure DevOps (agents, monitoring, multi‑provider AI routing, dashboards, reports).  
 

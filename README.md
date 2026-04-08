@@ -2,9 +2,12 @@
 
 > DevOps & Cloud Engineer building AI-powered infrastructure tooling - Azure, AKS, Terraform, CI/CD, and observability at the core. I also ship full-stack products when the problem demands it.
 
-<p>
-  <a href="https://notbatman.me/"><img alt="Website" src="https://img.shields.io/badge/website-notbatman.me-111827?style=for-the-badge"></a>
-</p>
+[![Website](https://img.shields.io/badge/notbatman.me-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://notbatman.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantxrana)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantxrana)
+[![Email](https://img.shields.io/badge/nishantxrana@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishantxrana@gmail.com)
+
+---
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -42,3 +45,8 @@
 - **Local‑first products with strong privacy guarantees** (E2E encryption, zero‑knowledge sync) - see **TabFlow**
 
 ---
+
+## Certifications
+
+[![Azure Developer Associate](https://img.shields.io/badge/Azure_Developer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/Nishant-2490/86227C61FF8E2B7D?sharingId=7C5B7CF861970B97)
+[![Azure AI Engineer Associate](https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/nishantxrana/3BF09ED76E73C1F0?sharingId=749C77E590B75703)

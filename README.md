@@ -1,7 +1,6 @@
 # Nishant Rana
 
-> Full‑stack TypeScript/JavaScript builder focused on **DevOps intelligence**, **security/permissions visibility**, and **local‑first UX**.  
-I like shipping practical tools: dashboards, agents, automation, and products with a clear “why”.
+> DevOps & Cloud Engineer building AI-powered infrastructure tooling - Azure, AKS, Terraform, CI/CD, and observability at the core. I also ship full-stack products when the problem demands it.
 
 <p>
   <a href="https://notbatman.me/"><img alt="Website" src="https://img.shields.io/badge/website-notbatman.me-111827?style=for-the-badge"></a>

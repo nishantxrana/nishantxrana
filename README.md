@@ -63,7 +63,7 @@ Multi-organization MCP gateway on Azure App Service for Microsoft Copilot Studio
 
 `Node.js` · `TypeScript` · `Express` · `Azure Key Vault` · `App Service`
 
-### [InsightOps](https://github.com/nishantxrana/InsightOps) · [live](https://stginsightops.azurewebsites.net/)
+### [Argus](https://github.com/nishantxrana/Argus) · [live](https://nishantxrana.com)
 
 AI-assisted Azure DevOps monitoring platform used by a **120**-person engineering org — sprint, build, PR, and release visibility, encrypted org PATs, multi-provider AI diagnosis, and Google Chat alerts.
 
